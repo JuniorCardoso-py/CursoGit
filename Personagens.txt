@@ -4,3 +4,6 @@ Master Yoda
 Darth Sidious
 Jabba the Hutt
 Han Solo
+Chewbacca
+Leia Organa
+
